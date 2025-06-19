@@ -1,5 +1,5 @@
 How to Update BMW GPS? Easy Guide
-======================
+=======================
 
 .. toctree::
    :maxdepth: 2
