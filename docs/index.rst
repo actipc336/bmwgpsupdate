@@ -1,4 +1,4 @@
-BMW GPS Update Guide
+How to Update BMW GPS? Easy Guide
 ======================
 
 .. toctree::
